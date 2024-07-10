@@ -48,21 +48,21 @@ section {
 }
 
 #home {
-    background: #f4f4f4;
+    background:rgb(198, 159, 125)
 }
 
 #about {
-    background: #e4e4e4;
+    background: rgb(96, 96, 139)
 }
 
 #services {
-    background: #d4d4d4;
+    background: #4c6780;
 }
 
 #contact {
-    background: #c4c4c4;
+    background: #7db789;
 }
 
 .scrolled {
-    background: #444;
+    background: #7e5656;
 }
